@@ -7,4 +7,6 @@ angular技术
 
 结算统计消费功能
 
+效果链接：http://abc.aramy.cn/angular/jewelry
+
 
